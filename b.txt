@@ -1,6 +1,4 @@
 Testando atualização do clone
-<<<<<<< HEAD
 s
-=======
 testando nova funcionalidade
->>>>>>> main
+jdjdj
