@@ -2,3 +2,4 @@ Testando uma atualização de um arquivo
 alterações
 Enviando a funcionalidade
 x
+Enviando a funcionalidade B
